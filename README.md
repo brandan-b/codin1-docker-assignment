@@ -1,4 +1,4 @@
-# Docker File Assignment — Create React App on port 7775
+# Docker File Assignment - Create React App on port 7775
 
 This repo contains a ready-to-run Dockerized **development environment** that displays an `<h1>` with the exact text:
 
